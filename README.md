@@ -7,4 +7,4 @@ The basic stucture of MERN application with:
 - server stores the back-end code
 - node_modules stores some command and required modules
 
-2. Address AutoComplete Component: 
+
