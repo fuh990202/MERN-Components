@@ -63,5 +63,3 @@ Create Related function `setFormLocation`
   }
 ```
 
-* This is a bullet point
-
