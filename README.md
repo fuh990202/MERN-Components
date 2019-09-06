@@ -8,3 +8,8 @@ The basic stucture of MERN application with:
 - node_modules stores some command and required modules
 
 
+2. Address AutoComplete Component:
+- A custom component to provide address autoComplete feature
+- While users type the address, a list of corresponded suggestion is displayed (with onChange/onSelect/onBlur)
+- dependencies:
+    npm:  react-places-autocomplete { PlacesAutocomplete, geocodeByAddress }
