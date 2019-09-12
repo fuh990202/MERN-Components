@@ -1,0 +1,7 @@
+.avatar-editor-save-button{
+  height: 2.5rem;
+  margin-top: var(--spacing-md);
+  color: white;
+  border-radius: var(--main-border-radius);
+  background-color: var(--main-success-color);
+}
