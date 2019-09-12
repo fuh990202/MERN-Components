@@ -13,3 +13,8 @@ The basic stucture of MERN application with:
 - While users type the address, a list of corresponded suggestion is displayed (with onChange/onSelect/onBlur)
 - dependencies:
     npm:  react-places-autocomplete { PlacesAutocomplete, geocodeByAddress }
+
+### 3. Avatar_Editor
+- A custom component to allow user upload and edit avatar with avatar editor
+- dependencies:
+    npm: AvatarEditor from 'react-avatar-editor' 
