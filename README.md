@@ -16,5 +16,6 @@ The basic stucture of MERN application with:
 
 ### 3. Avatar_Editor
 - A custom component to allow user upload and edit avatar with avatar editor
+- Implemented with backend that allow users to save/updated their avatar
 - dependencies:
     npm: AvatarEditor from 'react-avatar-editor' 
